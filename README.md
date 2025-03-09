@@ -1,7 +1,7 @@
 # DailyQuotes
 # Daily Quote
 
-Link: https://shreyaeternal.io/daily-quote/
+Link: https://shreyaeternal/daily-quote/
 
 Shows a quote from _Daily Inspiration From The Monk Who Sold His Ferrari by Robin Sharma_
 
