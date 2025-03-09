@@ -1,6 +1,5 @@
 # Daily Quote
 
-Link: https://c-shubh.github.io/daily-quote/
 
 Shows a quote from _Daily Inspiration From The Monk Who Sold His Ferrari by Robin Sharma_
 
